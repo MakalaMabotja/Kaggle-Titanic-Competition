@@ -44,4 +44,4 @@ Compare the performance of basic and tuned  models to have an idea of which mode
 This summary provides an overview of the tasks performed in your notebook. If you have specific questions or need assistance with any part of the code, feel free to ask!  
   
 Email: makalamabotjasfp@gmail.com  
-LinkedIn: Makala Mabotja
+LinkedIn: [Makala Mabotja](https://www.linkedin.com/in/makala-mabotja/)
