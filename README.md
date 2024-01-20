@@ -41,6 +41,6 @@ Classification accuracy - the percentage of predicted labels that are correct.
 ### Model Comparison
 Compare the performance of basic and tuned  models to have an idea of which model performs best on the data that we have and which one to use going forward.
 
-This summary provides an overview of the tasks performed in your notebook. If you have specific questions or need assistance with any part of the code, feel free to ask!
-Email: makalamabotjasfp@gmail.com
+This summary provides an overview of the tasks performed in your notebook. If you have specific questions or need assistance with any part of the code, feel free to ask!  
+Email: makalamabotjasfp@gmail.com  
 LinkedIn: Makala Mabotja
